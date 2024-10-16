@@ -6,9 +6,9 @@ L'objectif de ce tutoriel est d'explorer comment personnaliser les widgets Flutt
 ## Ce que j'ai créé
 Je vais réaliser un Calculateur d'Indice de Masse Corporelle (IMC) inspiré des superbes designs de Ruben Vaalt. Ce sera une application multi-écrans avec une fonctionnalité simple mais un style totalement personnalisé.
 
-## Application en cours 
+## Application terminé 
 
-## Ce que je vais apprendre
+## Ce que j'ai appris
 - Utiliser les thèmes Flutter pour créer une image de marque cohérente.
 - Créer des applications multi-pages en utilisant les Routes et le Navigator de Flutter.
 - Extraire et refactoriser des widgets Flutter d'un simple clic.
